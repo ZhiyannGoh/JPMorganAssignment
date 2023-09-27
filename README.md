@@ -1,6 +1,6 @@
 # Run Application Instruction
 1. Execute [MarsRoverApplication.java](src%2Fmain%2Fjava%2Fcom%2Fjpmorgan%2Fzhiyan%2Fassignment%2FMarsRoverApplication.java)
-   2. If the port number differs, replace the port number in the curl commands
+2. If the port number differs, replace the port number in the curl commands
 
 # Functional Requirement 
 1. A Mars Rover should be able to move forward by 1 coordinate in the current direction
